@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresProcedure:usarCierre
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: usarCierre
+  inspection: Assigns:mochilaAbierta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: usarCierre
+  inspection: Not:UsesIf
