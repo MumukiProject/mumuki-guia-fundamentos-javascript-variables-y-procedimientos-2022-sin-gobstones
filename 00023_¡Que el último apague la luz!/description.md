@@ -1,6 +1,6 @@
 Ahora que conocimos a los procedimientos podemos modelar casos de alternancia utilizando la negación lógica. Por ejemplo, prender y apagar una luz :bulb::
 
-```python
+```javascript
 let luzPrendida = false;
 
 function apretarInterruptor(){
