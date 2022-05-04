@@ -35,4 +35,4 @@ function puedeLlevar(pesoEquipaje) {
  
 > Como te habrás dado cuenta, nunca nos olvidamos de saludar ¡y ahora no es la excepción!
 
-> Modificá la función `saludarA` para evitar la repetición de lógica. Para eso utilizá una variable local `finalDeSaludo`.
+> Modificá la función `saludarA` para evitar la repetición de lógica. Para eso declará y utilizá una variable local `finalDeSaludo`.
