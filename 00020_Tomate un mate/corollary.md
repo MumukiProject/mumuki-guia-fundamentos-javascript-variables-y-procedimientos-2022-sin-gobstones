@@ -1,4 +1,4 @@
-¡Muy bien :clap:!
+¡Muy bien! :clap:
 
 Quizás se está volviendo un poco repetitivo escribir cosas como `aguaDelTermo = aguaDelTermo - 30` o `pesosEnMiBilletera = pesosEnMiBilletera * 2`. Es que cuando trabajamos con variables, actualizaciones como duplicar, triplicar, incrementar en uno o en una cierta cantidad son demasiado comunes. Por eso JavaScript presenta algunos atajos:
 
